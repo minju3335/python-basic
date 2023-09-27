@@ -61,4 +61,4 @@ lotto_number = [drwtNo1, drwtNo2, drwtNo3, drwtNo4, drwtNo5, drwtNo6]
 print(lucky_number)
 print(lotto_number)
 
-print(set(lucky_number) & set(lotto_number))
+print(set(lucky_number) & set(lotto_number)) # set는 집합의 형태로 바꿔줌
